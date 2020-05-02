@@ -7,11 +7,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "native-base": "^2.12.1",
+    "axios": "^0.18.1",
+    "native-base": "^2.13.12",
     "react": "16.6.3",
-    "react-native": "0.58.6",
-    "react-navigation": "^2.0.1"
+    "react-native": "^0.62.2",
+    "react-navigation": "^2.18.3"
   },
   "devDependencies": {
     "babel-core": "7.0.0-bridge.0",
